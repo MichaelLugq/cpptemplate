@@ -1,1 +1,1 @@
-# CodeTest
+# C++ template
